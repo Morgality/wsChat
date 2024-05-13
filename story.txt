@@ -1,0 +1,15 @@
+{"text":"He,lo","user":"Sergey","id":"050c88fa-6fcd-4953-a3b6-1e6b0c9d81e2","date":"2024-05-13T09:12:25.332Z"}
+{"text":"Hi","user":"Anna","id":"614279ef-b700-459b-a37d-7cdeb923428b","date":"2024-05-13T09:12:32.080Z"}
+{"text":"fok u","user":"Sergey","id":"0120a3d6-04a6-4091-92e1-d5e34d2db3b3","date":"2024-05-13T09:14:24.497Z"}
+{"text":"No fock u","user":"Anna","id":"261a7415-d795-4429-9f74-1be93d121260","date":"2024-05-13T09:14:33.303Z"}
+{"text":"hello","user":"Some","id":"1882577d-c35d-4091-96cf-2aa1e5d4866d","date":"2024-05-13T11:33:29.845Z"}
+{"text":"Hi","user":"some","id":"8b3597bd-4c69-4ff6-bbb6-eb58a25d84d2","date":"2024-05-13T11:41:16.365Z"}
+{"text":"HI","user":"Sergey","id":"c8730324-38bf-4aaf-998a-1163c0514fd6","date":"2024-05-13T11:41:25.155Z"}
+{"text":"Текст сообщения","user":"Sergey","id":"7a280d01-7c18-499d-a345-d5b9bffa642a","date":"2024-05-13T11:43:46.004Z"}
+{"text":"Текст сообщения","user":"Сергей","id":"5ac74d11-01af-452b-9dc7-6e3a9a9c31b0","date":"2024-05-13T11:44:40.811Z"}
+{"text":"Некоторое сообщение","user":"Sergey","id":"f689634d-1b8b-4526-83f7-ee3e92e494eb","date":"2024-05-13T11:53:15.503Z"}
+{"text":"Привет, уроды","user":"Sergey","id":"1b954892-8ad7-480d-8d91-83f90e96e634","date":"2024-05-13T11:54:09.088Z"}
+{"text":"Hello","user":"Sergey","id":"689b21ef-b10b-4545-8e6e-11826c1a5021","date":"2024-05-13T12:00:36.801Z"}
+{"text":"Hello","user":"Sergey","id":"282292f9-0736-425a-8e8a-6c9f191d1c0b","date":"2024-05-13T12:10:18.769Z"}
+{"text":"Some text","user":"Sergey","id":"afc5b112-2cd9-4ef7-ac12-857222cd5bd5","date":"2024-05-13T12:10:24.345Z"}
+{"text":"Некоторый текст в чате","user":"Sergey","id":"8b3cb84f-3448-4737-865f-65a20cf6a474","date":"2024-05-13T12:13:51.427Z"}
